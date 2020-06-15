@@ -11,10 +11,10 @@ We confirm that the services work using a GET and POST request using curl from t
 Code: https://github.com/coding-parrot/microservices-core
 
 System Design Video Course: https://get.interviewready.io/courses/system-design-interview-prep
-System Design book - https://amzn.to/2yQIrxH
-System Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
-
+<br/>System Design book - https://amzn.to/2yQIrxH
+<br/>System Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+<br/><br/>
 You can follow me on:
-Quora: https://www.quora.com/profile/Gaurav-Sen-6
-LinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/
-Twitter: https://twitter.com/gkcs_
+<br/>Quora: https://www.quora.com/profile/Gaurav-Sen-6
+<br/>LinkedIn: https://www.linkedin.com/in/gaurav-sen-56b6a941/
+<br/>Twitter: https://twitter.com/gkcs_
