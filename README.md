@@ -8,7 +8,7 @@ The Gateway service is written in Go. Every service registers it's IP and ports 
 
 We confirm that the services work using a GET and POST request using curl from the local machine.
 
-Code: https://github.com/coding-parrot/microservices-core
+Video: https://www.youtube.com/watch?v=atCbbvKOKnU
 
 System Design Video Course: https://interviewready.io
 <br/>System Design book - https://amzn.to/2yQIrxH
