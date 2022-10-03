@@ -10,7 +10,7 @@ We confirm that the services work using a GET and POST request using curl from t
 
 Code: https://github.com/coding-parrot/microservices-core
 
-System Design Video Course: https://get.interviewready.io/courses/system-design-interview-prep
+System Design Video Course: https://interviewready.io
 <br/>System Design book - https://amzn.to/2yQIrxH
 <br/>System Design Playlist: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 <br/><br/>
